@@ -28,7 +28,7 @@ var quizQuestions = [{
     choiceD: "Q",
     correctAnswer: "c"},
   {
-    question: "",
+    question: "The national animal of Scotland is a...",
     choiceA: "Unicorn",
     choiceB: "Skunk",
     choiceC: "Catfish",
