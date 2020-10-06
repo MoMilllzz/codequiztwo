@@ -21,7 +21,7 @@ var buttonD = document.getElementById("d");
 
 // Quiz question object
 var quizQuestions = [{
-    question: " ",
+    question: "There is only one letter that doesn't appear on the periodic table. Is it... ",
     choiceA: "A",
     choiceB: "M",
     choiceC: "J",
